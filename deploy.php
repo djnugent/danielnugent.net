@@ -20,8 +20,8 @@
 		'echo $PWD',
 		'whoami',
 		// Update Repo
-		'git reset --hard HEAD',
-		'git pull',
+		'git fetch',
+		'git reset --hard origin/master', // force pull
 		'git status',
 		'git submodule sync',
 		'git submodule update',
