@@ -6,7 +6,7 @@ function main() {
 
    /* ==============================================
   	Testimonial Slider
-  	=============================================== */ 
+  	=============================================== */
 
   	$('a.page-scroll').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -20,21 +20,19 @@ function main() {
           }
         }
       });
-	  
+
 	/*====================================
     Preloader
     ======================================*/
-	
-  	$(window).load(function() {
+    window.onload = function(){
+   	// will first fade out the loading animation
+    	$("#status").fadeOut("slow");
 
-   	// will first fade out the loading animation 
-    	$("#status").fadeOut("slow"); 
+    	// will fade out the whole DIV that covers the website.
+    	$("#preloader").delay(500).fadeOut("slow").remove();
 
-    	// will fade out the whole DIV that covers the website. 
-    	$("#preloader").delay(500).fadeOut("slow").remove();      
+  	};
 
-  	}); 
-	
     /*====================================
     Show Menu
     ======================================*/
@@ -47,7 +45,7 @@ function main() {
         }
     });
 
-    $('body').scrollspy({ 
+    $('body').scrollspy({
         target: '.navbar-default',
         offset: 80
 
@@ -85,20 +83,20 @@ function main() {
 
   	/*====================================
     CounterUp
-    ======================================*/	
+    ======================================*/
 
 	$(document).ready(function( $ ) {
-		if($("span.count").length > 0){	
+		if($("span.count").length > 0){
 			$('span.count').counterUp({
 					delay: 10, // the delay time in ms
 			time: 1500 // the speed time in ms
 			});
 		}
 	});
-	
+
 	/*====================================
     WOW JS
-    ======================================*/	
+    ======================================*/
 
 	$(window).load(function() {
 	new WOW().init();
