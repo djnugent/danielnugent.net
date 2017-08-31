@@ -11,7 +11,7 @@ My personal website
   title: Project 1
   subtitle: Robot
   thumbnail: img/portfolio/08.jpg
-  categories: web
+  categories: school
   ---
   ```
 
@@ -19,3 +19,12 @@ My personal website
 
   **Note:** Available categories are: `professional`, `personal`, and `school`
 3. Add markdown
+
+
+## Requirements
+- Apache
+- PHP
+- `sudo apt install npm`
+- `sudo apt install nodejs-legacy`
+- `sudo npm install -g markdown-styles`  for markdown render
+- `sudo apt-get install sendmail` for php mail
