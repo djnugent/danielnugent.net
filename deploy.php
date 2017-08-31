@@ -26,7 +26,7 @@
 		'git submodule sync',
 		'git submodule update',
 		'git submodule status',
-    //'generate-md --layout jasonm23-markdown --input ./projects --output .',
+    'generate-md --layout jasonm23-markdown --input ./projects --output .', // render projects
 
 	);
 	// Run the commands for output
