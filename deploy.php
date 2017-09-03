@@ -26,7 +26,7 @@
 		'git submodule sync',
 		'git submodule update',
 		'git submodule status',
-    './gen_markdown.sh', // render projects
+    'generate-md --layout github --input ./projects --output .', // render projects
 
 	);
 	// Run the commands for output
