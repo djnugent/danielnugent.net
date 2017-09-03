@@ -71,7 +71,7 @@
 </nav>
 
 <!-- Header -->
-<header name="home">
+<header id="home">
   <div class="container">
     <div class="intro-text">
       <h1 class="wow fadeInDown">Hello, I'm <span class="brand">Daniel Nugent</span></h1>
@@ -90,16 +90,15 @@
     <div class="row wow fadeInDown">
       <div class="col-md-6">
         <div class="about-text1">
-          <h3>Lorem ipsum dolor amet consectetur adipiscing</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
-          <a href="#works-section" class="btn btn-default page-scroll">My Works</a> </div>
+          <p>Hi, I am Daniel Nugent. I am a Senior year at <b>Iowa State University</b>(Graduation December 2017). I have an interest in <b>Robotics, AI, Control Systems, and Prototyping</b>. My most valuable skill is my <b>multidisciplinary</b> understanding of engineering. My focus is on software, but I have a fair bit of experience with <b>electronics and hardware</b>.</p>
+          <p>Here you will find projects I have completed during my free time, with my consulting company, in class, and, with internships. Take a look around!</p>
+          <a href="#projects-section" class="btn btn-default page-scroll">My Projects</a> </div>
       </div>
     </div>
     <div class="col-md-6"></div>
   </div>
 </div>
-</div>
+
 <!-- Services Section -->
 <div id="skills-section">
   <div class="container">
@@ -111,17 +110,17 @@
     <div class="row">
       <div class="col-sm-4 col-md-4 col-lg-4">
         <div class="portfolio-item wow fadeInDown">
-            <img src="img/skill_software.png" class="img-responsive" alt="Project Title"> </a>
+            <img src="img/skill_software.png" class="img-responsive" alt="Software Skills">
         </div>
       </div>
       <div class="col-sm-4 col-md-4 col-lg-4">
         <div class="portfolio-item wow fadeInDown">
-            <img src="img/skill_hardware.png" class="img-responsive" alt="Project Title"> </a>
+            <img src="img/skill_hardware.png" class="img-responsive" alt="Hardware Skills">
         </div>
       </div>
       <div class="col-sm-4 col-md-4 col-lg-4">
         <div class="portfolio-item wow fadeInDown">
-            <img src="img/skill_other.png" class="img-responsive" alt="Project Title"> </a>
+            <img src="img/skill_other.png" class="img-responsive" alt="Other Skills">
         </div>
       </div>
     </div>
@@ -129,11 +128,11 @@
 </div>
 
 
-</div>
 
 <!-- Break -->
 <div id="break">
   <div class="container">
+
   </div>
 </div>
 
@@ -206,10 +205,10 @@
       <hr>
     </div>
     <ul class="row">
-      <li class="col-xs-6 col-sm-3"> <img src="img/clients/logo-1.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="img/clients/logo-2.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="img/clients/logo-3.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="img/clients/logo-4.png" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="img/logos/nasa-logo.png" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="img/logos/m5-logo.png" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="img/logos/3dr-logo.png" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="img/logos/rockwell-logo.png" alt=""> </li>
     </ul>
   </div>
 </div>

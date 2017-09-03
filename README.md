@@ -4,7 +4,7 @@ My personal website
 ## Adding a new project - because future Daniel will forget
 1. Create a new markdown file in the projects directory
 
-  **Note:** Filename must be lower case and have the format of `proj-*.md`
+  **Note:** Filename must be lower case and have the format of `*-proj.md`
 2. Add a header:
 
   ```
