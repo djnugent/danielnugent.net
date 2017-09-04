@@ -1,1 +1,1 @@
-generate-md --layout github --input ./projects --output .
+generate-md --layout cust-markdown --input ./projects --output .
