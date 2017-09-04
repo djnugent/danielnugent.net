@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <title>{{title}}</title>
+    <link type="text/css" rel="stylesheet" href="{{asset 'css/cust-markdown.css'}}">
+    <link type="text/css" rel="stylesheet" href="{{asset 'css/pilcrow.css'}}">
+    <link type="text/css" rel="stylesheet" href="{{asset 'css/hljs-github.min.css'}}"/>
+  </head>
+  <body>
+
+    <div>
+      <a class="btn" href="index.php#projects-section">Return to Projects</a>
+    </div>
+
+    <div class="main">
+    <article class="markdown-body">
+      {{~> content}}
+    </article>
+    </div>
+  </body>
+</html>
