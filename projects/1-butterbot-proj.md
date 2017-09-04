@@ -126,7 +126,7 @@ You can find my code for butterbot [here](https://github.com/djnugent/butterbot)
         <img  src="img/projects/bb-neck-2.jpg"></img>
         <img  src="img/projects/bb-particle.jpg"></img>
         <img  src="img/projects/bb-neck-3.jpg"></img>
-        <img  src="img/projects/bb-head-test-stand.jpg"></img>
+        <img  src="img/projects/bb-test-stand.jpg"></img>
         <img  src="img/projects/bb-head-iso.jpg"></img>
         <img  src="img/projects/bb-neck-4.jpg"></img>
         <img  src="img/projects/bb-side.jpg"></img>
