@@ -90,8 +90,8 @@
     <div class="row wow fadeInDown">
       <div class="col-md-6">
         <div class="about-text1">
-          <p>Hi, I am Daniel Nugent. I am a Senior year at <b>Iowa State University</b>(Graduation December 2017). I have an interest in <b>Robotics, AI, Control Systems, and Prototyping</b>. My most valuable skill is my <b>multidisciplinary</b> understanding of engineering. My focus is on software, but I have a fair bit of experience with <b>electronics and hardware</b>.</p>
-          <p>Here you will find projects I have completed during my free time, with my consulting company, in class, and, with internships. Take a look around!</p>
+          <p>Hi, I am Daniel Nugent. I am a Senior year at <b>Iowa State University</b> (Graduation December 2017). I have an interest in <b>Robotics, AI, Control Systems, and Prototyping</b>. My most valuable skill is my <b>multidisciplinary</b> understanding of engineering. My focus is on software, but I have a fair bit of experience with <b>electronics and hardware</b>.</p>
+          <p>Here you will find projects I have completed during my free time, with my consulting company, in class, and with internships. Take a look around!</p>
           <a href="#projects-section" class="btn btn-default page-scroll">My Projects</a> </div>
       </div>
     </div>
