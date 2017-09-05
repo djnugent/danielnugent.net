@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 
+<!--todo
+add date to projects
+add other interested
+sort projects by date
+-->
+
 <html lang="en">
 
 <head>
@@ -63,6 +69,7 @@
         <li><a href="#projects-section" class="page-scroll">Projects</a></li>
         <li><a href="#experience-section" class="page-scroll">Experience</a></li>
         <li><a href="#contact-section" class="page-scroll">Contact</a></li>
+        <li><a href="https://drive.google.com/drive/u/1/folders/0B75b5hNZE7szR3RjcnNQZGp6QjA" class="page-scroll">Resume</a></li>
       </ul>
     </div>
     <!-- /.navbar-collapse -->
@@ -205,10 +212,10 @@
       <hr>
     </div>
     <ul class="row">
-      <li class="col-xs-6 col-sm-3"> <img src="img/logos/nasa-logo.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="img/logos/m5-logo.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="img/logos/3dr-logo.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="img/logos/rockwell-logo.png" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="img/logos/nasa-logo.png" alt="nasa"> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="img/logos/m5-logo.png" alt="m5"> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="img/logos/3dr-logo.png" alt="3dr"> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="img/logos/rockwell-logo.png" alt="rockwell"> </li>
     </ul>
   </div>
 </div>
@@ -228,6 +235,8 @@
       <p><i class="fa fa-envelope-o fa-fw pull-left"></i>djnugent1@gmail.com</p>
       <div class="space"></div>
       <p><i class="fa fa-phone fa-fw pull-left"></i>612-388-8443</p>
+      <div class="space"></div>
+      <p><i class="fa fa-file-pdf-o fa-fw pull-left"></i><a href="https://drive.google.com/drive/u/1/folders/0B75b5hNZE7szR3RjcnNQZGp6QjA">Resume</a></p>
     </div>
     <div class="col-md-8 wow fadeInDown">
       <h3>Leave me a message</h3>
