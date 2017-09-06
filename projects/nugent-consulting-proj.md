@@ -2,8 +2,13 @@ title: Nugent Consulting
 subtitle: My Consulting Company
 thumbnail: img/projects/gokart.jpg
 categories: professional
+date: 1/8/14
 ---
 # Nugent Consulting
+**Project Date:** 8/14 - *Senior in High School and Sophomore/Junior in College*
+
+---
+
 I founded Nugent Consulting LLC the beginning of my Sophomore year of college at Iowa State.
 
 ## Japan Drones

@@ -2,8 +2,12 @@ title: Quadrotor Visual Precision Land
 subtitle: Consulting, Visual navigation
 thumbnail: img/projects/precland-quad.jpg
 categories: professional
+date: 1/7/14
 ---
 # Quadrotor Visual Precision Land
+**Project Date:** 7/14 - *Sophomore in College*
+
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PeUOq_Y305U" frameborder="0" allowfullscreen></iframe>
 

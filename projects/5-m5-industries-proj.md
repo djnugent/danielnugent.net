@@ -2,8 +2,12 @@ title: M5 Industries
 subtitle: Summer with a Mythbuster!
 thumbnail: img/projects/m5-jamie.jpg
 categories: professional
+date: 1/6/16
 ---
 # M5 Industries
+**Project Date:** 6/16 - *Junior in College*
+
+---
 
 ![jamie](img/projects/m5-jamie.jpg)
 

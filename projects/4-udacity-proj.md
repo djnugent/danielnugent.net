@@ -2,8 +2,12 @@ title: Self Driving Car NanoDegree
 subtitle: Udacity Course
 thumbnail: img/projects/udacity.jpg
 categories: personal school
+date: 1/6/17
 ---
 # Udacity Self Driving Car NanoDegree
+**Project Date:** 6/17 - *Senior in College*
+
+---
 
 ![car](img/projects/udacity.jpg)
 

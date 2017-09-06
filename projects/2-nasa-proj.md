@@ -2,8 +2,12 @@ title: NASA JPL
 subtitle: Internship, Micro Aerial Vehicle
 thumbnail: img/projects/curiosity.jpg
 categories: professional
+date: 1/8/17
 ---
 # NASA Jet Propulsion Laboratory
+**Project Date:** 8/17 - *Senior in College*
+
+---
 
 ![me](img/projects/me-jpl.jpg)
 

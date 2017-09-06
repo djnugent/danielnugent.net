@@ -2,10 +2,14 @@ title: Solar Nightlight
 subtitle: Personal, Decorative Gift
 thumbnail: img/projects/solar-1.jpg
 categories: personal
+date: 1/12/16
 ---
 <link rel="stylesheet" type="text/css"  href="css/grid.css">
 
 # Solar Night Light
+**Project Date:** 12/16 - *Senior in College*
+
+---
 
 ![Light at night](img/projects/solar-22.jpg)
 

@@ -2,9 +2,13 @@ title: Dronie
 subtitle: Hackathon, Selfie Drone
 thumbnail: img/projects/dronie-front.jpg
 categories: personal
+date: 1/11/16
 ---
 
 # Dronie
+**Project Date:** 11/16 - *Junior in College*
+
+---
 
 ![dronie](img/projects/dronie-front.jpg)
 

@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 
 <!--todo
-add date to projects
 add other interested
-sort projects by date
 -->
 
 <html lang="en">
@@ -97,7 +95,7 @@ sort projects by date
     <div class="row wow fadeInDown">
       <div class="col-md-6">
         <div class="about-text1">
-          <p>Hi, I am Daniel Nugent. I am a Senior year at <b>Iowa State University</b> (Graduation December 2017). I have an interest in <b>Robotics, AI, Control Systems, and Prototyping</b>. My most valuable skill is my <b>multidisciplinary</b> understanding of engineering. My focus is on software, but I have a fair bit of experience with <b>electronics and hardware</b>.</p>
+          <p>Hi, I am Daniel Nugent. I am a Senior year at <b>Iowa State University</b> (Graduation December 2017). I have an interest in <b>Robotics, AI, Control Systems, and Prototyping</b>. My most valuable skill is my <b>multidisciplinary</b> understanding of engineering. My focus is on software, but I have a fair bit of experience with <b>electronics and hardware</b>. In my free time I enjoy skiing, cooking, and whittling.</p>
           <p>Here you will find projects I have completed during my free time, with my consulting company, in class, and with internships. Take a look around!</p>
           <a href="#projects-section" class="btn btn-default page-scroll">My Projects</a> </div>
       </div>
@@ -189,6 +187,9 @@ sort projects by date
           // get categories
           $line = fgets($handle);
           $project_categories=($pos=strpos($line,":"))?substr($line,$pos+1):$line;
+          // get date
+          $line = fgets($handle);
+          $project_date=($pos=strpos($line,":"))?substr($line,$pos+1):$line;
           // Generate clickable project preview
           $profile = new Template("template/thumbnail.tpl");
           $profile->set("project-title", $project_title);
@@ -196,6 +197,7 @@ sort projects by date
           $profile->set("thumbnail-src", $project_thumbnail);
           $profile->set("categories", $project_categories);
           $profile->set("href", $project_href);
+          $profile->set("date", $project_date);
           echo $profile->output();
           fclose($handle);
         }

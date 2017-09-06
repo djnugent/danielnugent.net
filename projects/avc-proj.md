@@ -2,10 +2,14 @@ title: Autonomous Vehicle Competition(AVC)
 subtitle: Personal, DIY autopilot
 thumbnail: img/projects/avc.jpg
 categories: personal
+date: 1/6/13
 ---
 <link rel="stylesheet" type="text/css"  href="css/grid.css">
 
 # AVC Autonomous Vehicle Competition
+**Project Date:** 6/13 - *Senior in High School*
+
+---
 
 ![avc](img/projects/avc.jpg)
 

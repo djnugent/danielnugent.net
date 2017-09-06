@@ -12,6 +12,7 @@ My personal website
   subtitle: Robot
   thumbnail: img/portfolio/08.jpg
   categories: school
+  date: 1/8/18
   ---
   ```
 

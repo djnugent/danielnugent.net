@@ -62,8 +62,21 @@ function main() {
                 duration: 750,
                 easing: 'linear',
                 queue: false
-            }
+            },
+            getSortData: {
+                date: function ($elem) {
+                    var dateStr = $elem.find('.date').attr("content"),
+                        dateArray = dateStr.split('/'),
+                        year = dateArray[2],
+                        month = dateArray[0],
+                        day = dateArray[1];
+                    return new Date(year, month, day);
+                }
+            },
+            sortBy: 'date',
+            sortAscending: false
         });
+
         $('.cat a').click(function() {
             $('.cat .active').removeClass('active');
             $(this).addClass('active');
@@ -74,7 +87,19 @@ function main() {
                     duration: 750,
                     easing: 'linear',
                     queue: false
-                }
+                },
+                getSortData: {
+                    date: function ($elem) {
+                        var dateStr = $elem.find('.date').attr("content"),
+                            dateArray = dateStr.split('/'),
+                            year = dateArray[2],
+                            month = dateArray[0],
+                            day = dateArray[1];
+                        return new Date(year, month, day);
+                    }
+                },
+                sortBy: 'date',
+                sortAscending: false
             });
             return false;
         });

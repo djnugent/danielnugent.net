@@ -2,8 +2,13 @@ title: Mars Rover Roomba
 subtitle: School, Mars rover with a Roomba
 thumbnail: img/projects/roomba.jpg
 categories: school
+date: 1/3/15
 ---
 # Mars Rover Roomba
+**Project Date:** 3/15 - *Sophomore in College*
+
+---
+
 
 ![roomba](img/projects/roomba.jpg)
 

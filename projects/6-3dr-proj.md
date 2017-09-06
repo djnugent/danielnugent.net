@@ -2,10 +2,14 @@ title: 3DRobotics
 subtitle: Internship, Drones
 thumbnail: ../img/projects/solo.jpg
 categories: professional
+date: 1/8/15
 ---
 <link rel="stylesheet" type="text/css"  href="css/grid.css">
 
 # 3DRobotics
+**Project Date:** 8/15 - *Sophomore in College*
+
+---
 
 ![Light at night](../img/projects/solo.jpg)
 

@@ -1,4 +1,5 @@
 <div id="[@project-title]" class="col-sm-6 col-md-3 col-lg-3 [@categories]">
+  <meta class="date" content="[@date]"></meta>
   <div class="portfolio-item wow fadeInDown" data-wow-delay="100ms">
     <div class="hover-bg"> <a id="project-ref" href="[@href]" class="portfolio-link">
       <div class="hover-text">

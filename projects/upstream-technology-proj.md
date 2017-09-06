@@ -2,8 +2,12 @@ title: Upstream Technologies
 subtitle: Consulting, Infiltrometer
 thumbnail: img/projects/upstream.jpg
 categories: professional
+date: 1/6/13
 ---
 ## Upstream Technologies
+**Project Date:** 6/13 - *Senior in High School*
+
+---
 
 ![boards](img/projects/upstream.jpg)
 

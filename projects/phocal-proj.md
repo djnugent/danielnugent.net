@@ -2,8 +2,12 @@ title: Phocal
 subtitle: School, Anonymous photo posting app
 thumbnail: img/projects/phocal.jpg
 categories: school
+date: 1/2/15
 ---
 # Phocal
+**Project Date:** 2/15 - *Sophomore in College*
+
+---
 
 ![poster](img/projects/phocal-poster.jpg)
 

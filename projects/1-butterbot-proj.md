@@ -2,10 +2,14 @@ title: Butterbot
 subtitle: Personal, Rick and Morty prop
 thumbnail: img/projects/bb-iso.jpg
 categories: personal
+date: 1/8/16
 ---
 <link rel="stylesheet" type="text/css"  href="css/grid.css">
 
 # Butterbot
+**Project Date:** 8/16 - *Junior in College*
+
+---
 
 <iframe width="716" height="430" src="https://www.youtube.com/embed/BhRFnhcuLr8" frameborder="0" allowfullscreen></iframe>
 

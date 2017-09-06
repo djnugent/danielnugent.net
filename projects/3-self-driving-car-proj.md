@@ -2,9 +2,13 @@ title: Self Driving Car
 subtitle: Personal, Self Driving Car Experiments
 thumbnail: img/projects/extracted_day.jpg
 categories: personal
+date: 1/9/17
 ---
 
 # Self Driving Truck
+**Project Date:** 9/17 - *Senior in College*
+
+---
 
 This project contains my experiments for creating a self driving car. I am currently
 using American Truck Simulator as my test bed due to it realism, mods, and low CPU load.

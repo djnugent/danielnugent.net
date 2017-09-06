@@ -2,8 +2,12 @@ title: InstaPrinter
 subtitle: Personal, Instagram Polaroid Printer
 thumbnail: img/projects/instaprinter.jpg
 categories: personal
+date: 1/3/16
 ---
 # InstaPrinter
+**Project Date:** 3/16 - *Junior in College*
+
+---
 
 ![feed](img/projects/instaprinter.jpg)
 

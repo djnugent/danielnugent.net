@@ -2,8 +2,12 @@ title: Rockwell Collins
 subtitle: Internship, Commercial Flight
 thumbnail: img/projects/rockwell.jpg
 categories: professional
+date: 1/5/14
 ---
 # Rockwell Collins
+**Project Date:** 5/14 - *Freshman in College*
+
+---
 
 ![cockpit](img/projects/rockwell-cockpit.jpg)
 
