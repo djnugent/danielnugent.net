@@ -1,5 +1,7 @@
 # danielnugent.net
 My personal website
+Auto renders markdown
+Runs google analytics
 
 ## Adding a new project - because future Daniel will forget
 1. Create a new markdown file in the projects directory
