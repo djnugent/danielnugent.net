@@ -15,7 +15,7 @@ date: 1/8/16
 
 ## TL;DR
 
-While [working with Jamie at M5 Industries](5-m5-industries-proj.html) I set out to diversify my skill set and embarked on a mechanically oriented project.  If you have read my other write up about my summer at M5 industries you will know that I was simultaneously working on a software robotics project, and I wanted a project which focused on mechanical design and fabrication. Butterbot strictly exists as a fictional character from the show Rick and Morty, so I set out to make him a real robot.
+While [working with Jamie at M5 Industries](m5-industries-proj.html) I set out to diversify my skill set and embarked on a mechanically oriented project.  If you have read my other write up about my summer at M5 industries you will know that I was simultaneously working on a software robotics project, and I wanted a project which focused on mechanical design and fabrication. Butterbot strictly exists as a fictional character from the show Rick and Morty, so I set out to make him a real robot.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="rSYdjLI"><a href="//imgur.com/rSYdjLI">Remote controlled Butterbot</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 

@@ -13,7 +13,7 @@ date: 1/7/14
 
 ---
 
-** See my most recent effort on this project [here](6-3dr-proj.html) **
+** See my most recent effort on this project [here](3dr-proj.html) **
 
 ---
 

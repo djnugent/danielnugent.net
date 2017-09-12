@@ -39,7 +39,7 @@ The servo pneumatic controllers were designed to take input from an analog signa
 
 ### Status
 
-I was able to program more animations and control methods. However the speed, responsiveness, and safety of the system were not up to spec. The project has been put on hold as Jamie desires for the project were outside the scope of my ability and time. I provided him with the best system he could get with the current hardware. He requested Boston Dynamics level of control, but the hardware and software (or PhDs!!!) weren’t there. If I could continue the project I would replace the servo pneumatic controllers with custom controllers, as the ones provided were too “black box” and their performance was poor and unpredictable. My github repo can be found here
+I was able to program more animations and control methods. However the speed, responsiveness, and safety of the system were not up to spec. The project has been put on hold as Jamie desires for the project were outside the scope of my ability and time. I provided him with the best system he could get with the current hardware. He requested Boston Dynamics level of control, but the hardware and software (or PhDs!!!) weren’t there. If I could continue the project I would replace the servo pneumatic controllers with custom controllers, as the ones provided were too “black box” and their performance was poor and unpredictable. My github repo can be found [here](https://github.com/djnugent/stewartatv)
 
 ## Other Projects
 
@@ -49,7 +49,7 @@ I was able to program more animations and control methods. However the speed, re
 
 ![bb](img/projects/bb-iso-2.jpg)
 
-I brought a cartoon character to life! See my write up of him [here](1-butterbot-proj.html)!!
+I brought a cartoon character to life! See my write up of him [here](butterbot-proj.html)!!
 
 ### Gearbox
 
