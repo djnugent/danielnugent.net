@@ -77,7 +77,7 @@
         <li><a href="#projects-section" class="page-scroll">Projects</a></li>
         <li><a href="#experience-section" class="page-scroll">Experience</a></li>
         <li><a href="#contact-section" class="page-scroll">Contact</a></li>
-        <li><a href="https://drive.google.com/drive/u/1/folders/0B75b5hNZE7szR3RjcnNQZGp6QjA" class="page-scroll">Resume</a></li>
+        <li><a href="https://drive.google.com/drive/folders/0B0dfoIMpB1T7OWNpdUZsdnlsQXM?usp=sharing" class="page-scroll">Resume</a></li>
       </ul>
     </div>
     <!-- /.navbar-collapse -->
