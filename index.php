@@ -248,7 +248,7 @@
       <div class="space"></div>
       <p><i class="fa fa-phone fa-fw pull-left"></i>612-388-8443</p>
       <div class="space"></div>
-      <p><i class="fa fa-file-pdf-o fa-fw pull-left"></i><a href="https://drive.google.com/drive/u/1/folders/0B75b5hNZE7szR3RjcnNQZGp6QjA">Resume</a></p>
+      <p><i class="fa fa-file-pdf-o fa-fw pull-left"></i><a href="https://drive.google.com/drive/folders/0B0dfoIMpB1T7OWNpdUZsdnlsQXM?usp=sharing">Resume</a></p>
     </div>
     <div class="col-md-8 wow fadeInDown">
       <h3>Leave me a message</h3>
